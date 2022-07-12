@@ -1,0 +1,1 @@
+Solving excercises from rust by practice for the polkadot bootcamp
